@@ -1,0 +1,70 @@
+div {
+  background-color: #060047;
+}
+h1 {
+  color: #b3005e;
+}
+p {
+  color: #e90064;
+}
+
+body {
+  text-align: center;
+  background-color: #228b22;
+}
+
+.mountain {
+  display: inline;
+  margin: 0;
+  position: relative;
+  top: 4px;
+}
+
+.chmurka2 {
+  position: absolute;
+  left: 50px;
+}
+.chmurka3 {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+
+.chmurka4 {
+  position: absolute;
+  right: 5cm;
+  top: 7cm;
+}
+
+.chmurka5 {
+  position: absolute;
+  left: 7cm;
+  top: 6cm;
+}
+
+.chmurka6 {
+  position: absolute;
+  left: 14cm;
+  top: 2.5cm;
+}
+
+.chmurka7 {
+  position: absolute;
+  right: 12cm;
+  top: 4.5cm;
+}
+
+.pingwinior {
+  position: relative;
+  right:  20cm;
+  top: 4px;
+}
+
+.chowchow {
+  background-color: transparent;
+  position: absolute;
+  left:  34cm;
+  top: 320px;
+  height: 5cm;
+  width: 5cm;
+}
